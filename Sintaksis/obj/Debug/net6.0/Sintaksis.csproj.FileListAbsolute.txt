@@ -1,0 +1,15 @@
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\bin\Debug\net6.0\Sintaksis.exe
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\bin\Debug\net6.0\Sintaksis.deps.json
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\bin\Debug\net6.0\Sintaksis.runtimeconfig.json
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\bin\Debug\net6.0\Sintaksis.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\bin\Debug\net6.0\Sintaksis.pdb
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\Sintaksis.csproj.AssemblyReference.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\Sintaksis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\Sintaksis.AssemblyInfoInputs.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\Sintaksis.AssemblyInfo.cs
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\Sintaksis.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\Sintaksis.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\refint\Sintaksis.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\Sintaksis.pdb
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\Sintaksis.genruntimeconfig.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Sintaksis\obj\Debug\net6.0\ref\Sintaksis.dll
