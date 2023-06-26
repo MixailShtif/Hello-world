@@ -1,0 +1,15 @@
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\bin\Debug\net6.0\Diff004.exe
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\bin\Debug\net6.0\Diff004.deps.json
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\bin\Debug\net6.0\Diff004.runtimeconfig.json
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\bin\Debug\net6.0\Diff004.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\bin\Debug\net6.0\Diff004.pdb
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\Diff004.csproj.AssemblyReference.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\Diff004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\Diff004.AssemblyInfoInputs.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\Diff004.AssemblyInfo.cs
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\Diff004.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\Diff004.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\refint\Diff004.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\Diff004.pdb
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\Diff004.genruntimeconfig.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Diff004\obj\Debug\net6.0\ref\Diff004.dll

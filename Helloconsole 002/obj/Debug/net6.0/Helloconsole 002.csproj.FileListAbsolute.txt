@@ -1,0 +1,15 @@
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\bin\Debug\net6.0\Helloconsole 002.exe
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\bin\Debug\net6.0\Helloconsole 002.deps.json
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\bin\Debug\net6.0\Helloconsole 002.runtimeconfig.json
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\bin\Debug\net6.0\Helloconsole 002.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\bin\Debug\net6.0\Helloconsole 002.pdb
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\Helloconsole 002.csproj.AssemblyReference.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\Helloconsole 002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\Helloconsole 002.AssemblyInfoInputs.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\Helloconsole 002.AssemblyInfo.cs
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\Helloconsole 002.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\Helloconsole 002.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\refint\Helloconsole 002.dll
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\Helloconsole 002.pdb
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\Helloconsole 002.genruntimeconfig.cache
+C:\Users\ADMIN 30.08.19\Desktop\C#1\C# HelloConsole\Helloconsole 002\obj\Debug\net6.0\ref\Helloconsole 002.dll
